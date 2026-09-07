@@ -17,5 +17,5 @@ I am a Computer Science student and Software Developer based in Dresden, Germany
 * **[HFT-Engine](https://github.com/JoshuaDorst/HFT-Engine):** An ultra-low-latency trading engine bypassing the standard OS network stack for sub-microsecond Tick-to-Trade execution.
 
 ### 📫 Let's Connect
-* [LinkedIn](https://linkedin.com/in/dein-profil-link) 
-* [Email](mailto:deine.email@example.com)
+* [LinkedIn](https://www.linkedin.com/in/jdorst/)
+* [Email](mailto:joshua.dorst06@gmail.com)
