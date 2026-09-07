@@ -14,7 +14,7 @@ I am a Computer Science student and Software Developer based in Dresden, Germany
 * **General Purpose:** Python, Swift (Native iOS Development)
 
 ### 📌 Featured Work
-* **[HFT-Engine](https://github.com/JoshuaDorst/HFT-Engine):** An ultra-low-latency trading engine bypassing the standard OS network stack for sub-microsecond Tick-to-Trade execution.
+* **[HFT-Engine](https://github.com/JoshyDo/HFT-Engine):** An ultra-low-latency trading engine bypassing the standard OS network stack for sub-microsecond Tick-to-Trade execution.
 
 ### 📫 Let's Connect
 * [LinkedIn](https://www.linkedin.com/in/jdorst/)
