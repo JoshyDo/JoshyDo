@@ -16,6 +16,9 @@ I am a Computer Science student and Software Developer based in Dresden, Germany
 ### 📌 Featured Work
 * **[HFT-Engine](https://github.com/JoshyDo/HFT-Engine):** An ultra-low-latency trading engine bypassing the standard OS network stack for sub-microsecond Tick-to-Trade execution.
 
+### 🏆 Open Source Contributions
+* **[ClickHouse](https://github.com/ClickHouse/ClickHouse/pull/119555):** Engineered an AArch64 NEON SIMD kernel for the database's core filter engine (`countBytesInFilter`). Achieved a 15.3x throughput speedup (125.8 GB/s) and resolved a silent null-map evaluation bug. Reviewed and merged into the master branch.
+
 ### 📫 Let's Connect
 * [LinkedIn](https://www.linkedin.com/in/jdorst/)
 * [Email](mailto:joshua.dorst06@gmail.com)
