@@ -1,2 +1,13 @@
-- name: git-profile-koi
-  uses: yalongwastaken/git-koi@v1.0.2
+name: Git Koi
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  git-koi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: git-profile-koi
+        uses: yalongwastaken/git-koi@v1.0.2
