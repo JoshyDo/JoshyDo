@@ -1,5 +1,5 @@
 # Hi, I'm Joshua Dorst ⚡
-<img src="koi/koi.gif" width="256" alt="My koi" />
+
 I am a Computer Science student and Software Developer based in Dresden, Germany, specializing in ultra-low-latency systems, kernel-bypass networking, and modern C++.
 
 ### 🔭 Current Focus
@@ -22,3 +22,4 @@ I am a Computer Science student and Software Developer based in Dresden, Germany
 ### 📫 Let's Connect
 * [LinkedIn](https://www.linkedin.com/in/jdorst/)
 * [Email](mailto:joshua.dorst06@gmail.com)
+<img src="koi/koi.gif" width="256" alt="My koi" />
